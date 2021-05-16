@@ -3,9 +3,9 @@ int main()
 {
     int a=10;
     { 
-     int a=2;
-     printf("%d",a);
+        int a=2;
+        printf("%d",a);
     }
-     printf("\n%d",a);
+    printf("\n%d",a);
     return 0;
 }
